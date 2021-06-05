@@ -9,7 +9,10 @@ import org.testng.annotations.Test;
 
 public class ASYCUDATestSuite 
 {
-	private Logger logger = org.apache.log4j.LogManager.getLogger(getClass());
+	private final Logger LOGGER = org.apache.log4j.LogManager.getLogger(getClass());
+	private final String LINUX="/media/bibilmchacko/mindlabs/Development/SeleniumDrivers/chromedriver";
+	private final String WINDOWS="/media/bibilmchacko/mindlabs/Development/SeleniumDrivers/chromedriver";
+	
 	
     private final  String BASE_URL = "http://localhost:3200";
     String driverPath = "C:\\geckodriver.exe";
@@ -18,9 +21,9 @@ public class ASYCUDATestSuite
 	@Test
 	public void testASYCUDA() 
 	{
-		logger.info("starting aub asycuda testing");
+		LOGGER.info("starting aub asycuda testing");
 		
-		System.setProperty("webdriver.chrome.driver", "/media/bibilmchacko/mindlabs/Development/SeleniumDrivers/chromedriver");
+		System.setProperty("webdriver.chrome.driver", WINDOWS);
 		this.webDriver=new ChromeDriver();
 		this.webDriver.get(BASE_URL);		
 		
