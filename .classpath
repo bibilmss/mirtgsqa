@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/log4j-core-2.14.1.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/log4j-1.2-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/slf4j-log4j12-1.7.30.jar"/>
+	<classpathentry kind="lib" path="/media/bibilmchacko/mindlabs/Eclipse-SE-Workspaces/mirtgsqa/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
