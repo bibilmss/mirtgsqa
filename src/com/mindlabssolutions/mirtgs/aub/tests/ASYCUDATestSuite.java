@@ -15,7 +15,7 @@ public class ASYCUDATestSuite
 	
 	
     private final  String BASE_URL = "http://localhost:3200";
-    String driverPath = "C:\\geckodriver.exe";
+    String driverPath = "D:\\Demo\\mirtgsqa\\drivers\\chromedriver.exe";
     public WebDriver webDriver ; 
 	
 	@Test
