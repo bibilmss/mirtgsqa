@@ -20,5 +20,7 @@
 	<classpathentry kind="lib" path="D:/Demo/mirtgsqa/lib/slf4j-api-1.7.30.jar"/>
 	<classpathentry kind="lib" path="D:/Demo/mirtgsqa/lib/slf4j-log4j12-1.7.30.jar"/>
 	<classpathentry kind="lib" path="D:/Demo/mirtgsqa/lib/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Demo/mirtgsqa/lib/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Demo/mirtgsqa/lib/ngwebdriver-1.1.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
