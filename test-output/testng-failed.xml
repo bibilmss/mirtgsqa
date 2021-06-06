@@ -5,7 +5,7 @@
     <classes>
       <class name="com.mindlabssolutions.mirtgs.aub.tests.ASYCUDATestSuite">
         <methods>
-          <include name="testASYCUDA"/>
+          <include name="testASYCUDAOffline"/>
         </methods>
       </class> <!-- com.mindlabssolutions.mirtgs.aub.tests.ASYCUDATestSuite -->
     </classes>
